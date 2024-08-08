@@ -1,6 +1,6 @@
 ﻿/*
 MP4 file splitter using MediaToolkit
-Splits an MP4 file into two halves using the MediaToolkit library.
+Splits an MP4 file in half and keeps the first half, using the MediaToolkit library.
 */
 
 using System;
