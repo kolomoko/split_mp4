@@ -1,0 +1,15 @@
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/split_file3/bin/Debug/net7.0/split_file3
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/split_file3/bin/Debug/net7.0/split_file3.deps.json
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/split_file3/bin/Debug/net7.0/split_file3.runtimeconfig.json
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/split_file3/bin/Debug/net7.0/split_file3.dll
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/split_file3/bin/Debug/net7.0/split_file3.pdb
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/split_file3/obj/Debug/net7.0/split_file3.csproj.AssemblyReference.cache
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/split_file3/obj/Debug/net7.0/split_file3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/split_file3/obj/Debug/net7.0/split_file3.AssemblyInfoInputs.cache
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/split_file3/obj/Debug/net7.0/split_file3.AssemblyInfo.cs
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/split_file3/obj/Debug/net7.0/split_file3.csproj.CoreCompileInputs.cache
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/split_file3/obj/Debug/net7.0/split_file3.dll
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/split_file3/obj/Debug/net7.0/refint/split_file3.dll
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/split_file3/obj/Debug/net7.0/split_file3.pdb
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/split_file3/obj/Debug/net7.0/split_file3.genruntimeconfig.cache
+/Users/chandlerwhite/Desktop/kolomoko/DotNET/split_file3/obj/Debug/net7.0/ref/split_file3.dll
